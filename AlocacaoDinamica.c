@@ -13,4 +13,6 @@ int main(){
     
     //a = &b; //Erro! Perdemos a fererência do espaço alocado
     //free(a); //Erro! Tentando liberar a memória estática
+
+    //se colocar o free depois de pegar o caminho de b, vai gerar um lixo de memória
 }
