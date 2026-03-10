@@ -28,6 +28,7 @@ Desktop.ini
 *.swo
 *~
 *.log
+.vscode
 
 # Arquivos de configuração locais
 .env
@@ -43,4 +44,5 @@ yarn-error.log*
 # Arquivos de sistema do Linux
 *~
 # Arquivos temporários do Arch Linux
-*~.tmpCopied!   
+*~.tmpCopied! 
+
